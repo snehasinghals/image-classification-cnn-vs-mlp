@@ -1,6 +1,6 @@
 # image-classification-cnn-vs-mlp
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on image classification using Deep Learning techniques.
 We compare the performance of a Multi-Layer Perceptron (MLP) and a Convolutional Neural Network (CNN) on a fruit image dataset.
@@ -9,7 +9,7 @@ The goal is to understand how different neural network architectures perform on 
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * Python
 * TensorFlow / Keras
@@ -19,7 +19,7 @@ The goal is to understand how different neural network architectures perform on 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * Fruits Image Dataset you can download it from : https://drive.google.com/drive/folders/1UXXGk_4_FIv0KJMCZT6vvfBrYXmk5mMR?usp=d
 rive_link
@@ -36,7 +36,7 @@ rive_link
 
 ---
 
-## 🧠 Models Implemented
+##  Models Implemented
 
 ### 🔹 1. MLP (Multi-Layer Perceptron)
 
@@ -46,7 +46,7 @@ rive_link
 * Dropout for regularization
 * Softmax output layer
 
-### 🔹 2. CNN (Convolutional Neural Network)
+###  2. CNN (Convolutional Neural Network)
 
 * Convolutional layers with ReLU
 * MaxPooling layers
@@ -57,7 +57,7 @@ rive_link
 
 ---
 
-## 🏋️ Training Details
+##  Training Details
 
 * Optimizer: Adam
 * Loss Function: Categorical Crossentropy (with label smoothing)
@@ -66,7 +66,7 @@ rive_link
 
 ---
 
-## 📊 Results & Evaluation
+##  Results & Evaluation
 
 * Compared both models based on:
 
@@ -79,11 +79,11 @@ rive_link
   * Accuracy & Loss graphs
   * Confusion Matrix
 
-👉 CNN performed better than MLP for image classification tasks.
+ CNN performed better than MLP for image classification tasks.
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 * Training vs Validation Accuracy
 * Training vs Validation Loss
@@ -91,7 +91,7 @@ rive_link
 
 ---
 
-## 🧪 Key Learnings
+##  Key Learnings
 
 * CNNs are more effective for image data than MLPs
 * Regularization techniques (Dropout, BatchNorm) improve performance
@@ -99,12 +99,12 @@ rive_link
   
 ---
 
-## 🙌 Author
+##  Author
 
 * Sneha SInghal
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
 Give it a star on GitHub!
