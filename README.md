@@ -28,7 +28,7 @@ rive_link
 
 ---
 
-## ⚙️ Data Preprocessing
+##  Data Preprocessing
 
 * Rescaled pixel values (1/255 normalization)
 * Loaded data using `ImageDataGenerator`
