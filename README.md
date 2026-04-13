@@ -1,9 +1,5 @@
 # image-classification-cnn-vs-mlp
 
-
-
-# 🍎 Image Classification using CNN vs MLP
-
 ## 📌 Project Overview
 
 This project focuses on image classification using Deep Learning techniques.
